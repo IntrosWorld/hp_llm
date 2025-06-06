@@ -11,7 +11,7 @@ git clone https://huggingface.co/spaces/Snaptrope/Harry_Potter_like_text_generat
 cd https://huggingface.co/spaces/Snaptrope/Harry_Potter_like_text_generator_and_chatbot
 ```
 
-## Requirement.txt
+## Requirements.txt
 ```bash
 pip install gradio==4.19.2
 pip install transformers==4.41.1
